@@ -1,1 +1,1 @@
-service_name             = "hoge-fixed-ip-lambda"
+service_name = "hoge-fixed-ip-lambda"
