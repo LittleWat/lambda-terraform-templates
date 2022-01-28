@@ -8,3 +8,8 @@ make build
 ```
 
 2. then deploy using terraform
+
+## Refs
+
+### ffmpeg
+- [FFmpeg をカスタムレイヤーとして Lambda 上で動かしてみた \| DevelopersIO](https://dev.classmethod.jp/articles/ffmpeg-lambda-layer/)
